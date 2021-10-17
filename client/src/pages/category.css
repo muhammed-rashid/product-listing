@@ -1,0 +1,33 @@
+.breadcrumb{
+    width: 100%;
+    
+    padding: 30px 50px;
+    background-color: rgb(240, 240, 240);
+}
+.breadcrumb h4{
+    font-size: 18px;
+}
+label{
+    font-size: 12px;
+}
+::placeholder{
+    font-size: 12px;
+}
+
+.btn{
+    background-color: rgb(7, 25, 75);
+    color: white;
+    font-size: 12px;
+}
+.btn:hover{
+    background-color: rgb(7, 25, 75);
+    color: white;
+}
+
+.danger{
+    color: red;
+}
+
+.success{
+    color: green;
+}
